@@ -10,7 +10,7 @@ namespace Contas
     {
         static void Main(string[] args)
         {
-            Console.Write("as");
+            Console.Write("Trabalho final POO");
         }
     }
 }
