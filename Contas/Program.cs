@@ -10,7 +10,7 @@ namespace Contas
     {
         static void Main(string[] args)
         {
-            Console.Write("asdasd");
+            Console.Write("as");
         }
     }
 }
